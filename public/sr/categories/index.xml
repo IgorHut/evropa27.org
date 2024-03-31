@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Evropa 27 Sr</title>
-    <link>https://igorhut.github.io/sr/categories/</link>
+    <link>https://evropa27.org/sr/categories/</link>
     <description>Recent content in Categories on Evropa 27 Sr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sr</language>
-    <atom:link href="https://igorhut.github.io/sr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://evropa27.org/sr/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
