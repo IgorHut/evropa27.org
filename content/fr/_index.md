@@ -3,6 +3,6 @@ title: "Njeni hramovi i palate činili su se kao magične plahte naslagane do ne
 
 description: "Kako spasiti Evropu"
 cascade:
-  featured_image: ''
+  featured_image: '/images/siteimages/europe27_star.jpg'
 ---
 Dobrodošli na stranicu L.: Evropa 27
