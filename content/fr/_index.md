@@ -1,8 +1,9 @@
 ---
-title: "Ananke: Un thème pour Hugo"
+title: "It's temples and palaces did seem
+Like fabrics of enchantment pil'd to heaven."
 
-description: "Le dernier thème dont vous aurez besoin. Peut-être"
+description: "Kako spasiti Evropu"
 cascade:
-  featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+  featured_image: '/images/siteimages/europe27_star.jpg'
 ---
-Bienvenue sur mon blog à propos de mon travail du moment. Je travaille sur une idée de livre. Vous pouvez lire quelques chapitres plus bas.
+Dobrodošli na stranicu L.: Evropa 27
