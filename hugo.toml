@@ -1,5 +1,5 @@
 title = "Europe 27"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "https://igorhut.github.io"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
