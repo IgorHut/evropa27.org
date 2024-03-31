@@ -16,7 +16,7 @@ enableRobotsTXT = true
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
-  [languages.fr]
+  [languages.sr]
     title = "Evropa 27 Sr"
     weight = 2
     contentDir = "content/fr"

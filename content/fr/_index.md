@@ -1,6 +1,5 @@
 ---
-title: "It's temples and palaces did seem
-Like fabrics of enchantment pil'd to heaven."
+title: "Njeni hramovi i palate činili su se kao magične plahte naslagane do neba."
 
 description: "Kako spasiti Evropu"
 cascade:
