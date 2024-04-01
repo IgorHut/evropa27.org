@@ -1,0 +1,49 @@
+[more]
+other = "Više"
+
+[allTitle]
+other = "Svi {{.Title }}"
+
+[recentTitle]
+other = "Skorašnji {{.Title }}"
+
+[readMore]
+other = "pročitaj više"
+
+[by]
+other = "Od"
+
+[whatsInThis]
+other = "Šta je u ovom {{ .Type }}"
+
+[related]
+other = "Povezano"
+
+[yourName]
+other = "Vaše ime"
+
+[emailAddress]
+other = "Email adresa"
+
+[message]
+other = "Poruka"
+
+[emailRequiredNote]
+other = "Email adresa je obavezna."
+
+[send]
+other = "Pošalji"
+
+[taxonomyPageList]
+other = "Ispod ćete pronaći stranice koje koriste termin taksonomije “{{ .Title }}”"
+
+[readingTime]
+one = "Čitanje jednog minuta"
+other = "Čitanje {{ .Count }} minuta"
+
+[wordCount]
+one = "Jedna reč"
+other = "{{ .Count }} reči"
+
+[pageTitle]
+other = "{{ .Name }} stranica"
