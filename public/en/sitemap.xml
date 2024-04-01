@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://evropa27.org/post/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sr"
+                href="https://evropa27.org/sr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://evropa27.org/post/"
+                />
+  </url><url>
     <loc>https://evropa27.org/post/chapter-6/</loc>
     <lastmod>2017-04-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -85,21 +100,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://evropa27.org/post/chapter-1/"
-                />
-  </url><url>
-    <loc>https://evropa27.org/post/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sr"
-                href="https://evropa27.org/sr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://evropa27.org/post/"
                 />
   </url><url>
     <loc>https://evropa27.org/about/</loc>
