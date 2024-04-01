@@ -4,7 +4,9 @@ featured_image: ''
 omit_header_text: true
 description: Ostavite nam poruku!
 type: page
-menu: main
+menu:
+  main:
+    weight: 3
 
 ---
 
