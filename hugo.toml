@@ -22,10 +22,9 @@ canonifyURLs = true
    
   [languages.sr]
     languageCode = "sr-latn"
-    locale = "sr-latn"
     title = "Evropa 27"
     weight = 2
-    contentDir = "content/fr"
+    contentDir = "content/sr"
     
 
 [sitemap]
@@ -35,7 +34,7 @@ canonifyURLs = true
 
 [params]
   text_color = ""
-  author = "Igor Hut"
+  author = ""
   favicon = ""
   site_logo = ""
   TIMEZONE = "Europe/Berlin"
@@ -46,5 +45,6 @@ canonifyURLs = true
   recent_posts_number = 3
 
 # [[params.ananke_socials]]
-
+[languages.sr.params]
+  date_format = "2. Januar 2006"
  
