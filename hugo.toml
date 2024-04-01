@@ -21,8 +21,8 @@ canonifyURLs = true
     # languageDirection = 'rtl' for Right-To-Left languages
    
   [languages.sr]
-    languageCode = "sr"
-    locale = "sr-Latn"
+    languageCode = "sr-latn"
+    locale = "sr-latn"
     title = "Evropa 27"
     weight = 2
     contentDir = "content/fr"
