@@ -22,6 +22,7 @@ canonifyURLs = true
    
   [languages.sr]
     languageCode = "sr"
+    locale = "sr-Latn"
     title = "Evropa 27"
     weight = 2
     contentDir = "content/fr"
