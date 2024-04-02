@@ -45,6 +45,6 @@ canonifyURLs = true
   recent_posts_number = 3
 
 # [[params.ananke_socials]]
-[languages.sr.params]
-  date_format = "2. Januar 2006"
+#[languages.sr.params]
+  #date_format = "2. Januar 2006"
  

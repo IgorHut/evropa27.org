@@ -6,14 +6,14 @@
     <description>Recent content in Njeni hramovi i palate činili su se kao magične plahte naslagane do neba. on Evropa 27</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sr-latn</language>
-    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://evropa27.org/sr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chapitre I: La grande halle</title>
-      <link>https://evropa27.org/sr/post/chapter-1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>https://evropa27.org/sr/post/chapter-1/</guid>
-      <description>Généralement, on utilise un texte en faux latin (le texte ne veut rien dire, il a été modifié), le Lorem ipsum ou Lipsum, qui permet donc de faire office de texte d&amp;rsquo;attente. L&amp;rsquo;avantage de le mettre en latin est que l&amp;rsquo;opérateur sait au premier coup d&amp;rsquo;oeil que la page contenant ces lignes n&amp;rsquo;est pas valide, et surtout l&amp;rsquo;attention du client n&amp;rsquo;est pas dérangée par le contenu, il demeure concentré seulement sur l&amp;rsquo;aspect graphique.</description>
+      <title>Content Placeholder</title>
+      <link>https://evropa27.org/sr/post/novi_clanak_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://evropa27.org/sr/post/novi_clanak_2/</guid>
+      <description></description>
     </item>
     <item>
       <title>Kontakt</title>
@@ -28,6 +28,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://evropa27.org/sr/o_nama/</guid>
       <description>Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
+    </item>
+    <item>
+      <title>Tamo daleko</title>
+      <link>https://evropa27.org/sr/post/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://evropa27.org/sr/post/chapter-1/</guid>
+      <description>Lorem ipsum.</description>
+    </item>
+    <item>
+      <title>Vrlo bitan članak</title>
+      <link>https://evropa27.org/sr/post/novi_clanak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://evropa27.org/sr/post/novi_clanak/</guid>
+      <description>Vrlo bitan članak Bio jednom jedan mnogo pametan čovek. Nekom prilikom je otišao u šumu. Od tada ga niko više nije video.</description>
     </item>
   </channel>
 </rss>
