@@ -2,8 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://evropa27.org/en/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://evropa27.org/en/post/about_isel/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://evropa27.org/en/post/activities/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://evropa27.org/en/post/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -16,33 +27,6 @@
                 hreflang="en"
                 href="https://evropa27.org/en/post/"
                 />
-  </url><url>
-    <loc>https://evropa27.org/en/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sr-latn"
-                href="https://evropa27.org/sr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://evropa27.org/en/"
-                />
-  </url><url>
-    <loc>https://evropa27.org/en/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://evropa27.org/en/post/about_isel/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://evropa27.org/en/post/activities/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>https://evropa27.org/en/categories/</loc>
     <changefreq>monthly</changefreq>
@@ -70,6 +54,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://evropa27.org/en/contact/"
+                />
+  </url><url>
+    <loc>https://evropa27.org/en/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sr-latn"
+                href="https://evropa27.org/sr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://evropa27.org/en/"
                 />
   </url><url>
     <loc>https://evropa27.org/en/post/freemasonry/</loc>

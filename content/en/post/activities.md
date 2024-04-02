@@ -1,6 +1,6 @@
 ---
 description: "Activities"
-featured_image: ""
+featured_image: "/images/siteimages/stubovi_radno.png"
 title: "Activites"
 ---
 

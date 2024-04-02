@@ -1,6 +1,6 @@
 ---
 description: "About ISEL"
-featured_image: "/images/siteimages/Hendrick_van_Balen_-_Europa_riding_the_bull.jpg"
+featured_image: "/images/siteimages/europa.gif"
 tags: []
 title: "About ISEL"
 ---

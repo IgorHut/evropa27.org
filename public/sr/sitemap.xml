@@ -2,37 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://evropa27.org/sr/post/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://evropa27.org/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sr-latn"
-                href="https://evropa27.org/sr/post/"
-                />
-  </url><url>
-    <loc>https://evropa27.org/sr/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://evropa27.org/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sr-latn"
-                href="https://evropa27.org/sr/"
-                />
-  </url><url>
-    <loc>https://evropa27.org/sr/post/novi_clanak_2/</loc>
+    <loc>https://evropa27.org/sr/post/aktivnosti/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -49,6 +19,24 @@
                 hreflang="sr-latn"
                 href="https://evropa27.org/sr/categories/"
                 />
+  </url><url>
+    <loc>https://evropa27.org/sr/post/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://evropa27.org/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sr-latn"
+                href="https://evropa27.org/sr/post/"
+                />
+  </url><url>
+    <loc>https://evropa27.org/sr/post/isel/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://evropa27.org/sr/contact/</loc>
     <changefreq>monthly</changefreq>
@@ -68,11 +56,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://evropa27.org/sr/post/novi_clanak_3/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://evropa27.org/sr/tags/scene/</loc>
+    <loc>https://evropa27.org/sr/post/slobodno_zidarstvo/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -90,12 +74,18 @@
                 href="https://evropa27.org/sr/tags/"
                 />
   </url><url>
-    <loc>https://evropa27.org/sr/post/chapter-1/</loc>
+    <loc>https://evropa27.org/sr/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://evropa27.org/sr/post/novi_clanak/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://evropa27.org/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sr-latn"
+                href="https://evropa27.org/sr/"
+                />
   </url>
 </urlset>

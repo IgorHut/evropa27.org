@@ -1,6 +1,6 @@
 ---
 title: "Aktivnosti"
-featured_image: ""
+featured_image: "/images/siteimages/stubovi_radno.png"
 
 ---
 

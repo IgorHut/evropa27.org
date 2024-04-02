@@ -19,12 +19,21 @@ canonifyURLs = true
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
+    [[languages.en.menu.main]]
+      name = "Home"
+      url = "/"
+      weight = 1
+      
    
   [languages.sr]
     languageCode = "sr-latn"
     title = "Evropa 27"
     weight = 2
     contentDir = "content/sr"
+    [[languages.sr.menu.main]]
+      name = "Naslovna"
+      url = "/"
+      weight = 1
     
 
 [sitemap]
