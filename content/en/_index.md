@@ -1,6 +1,6 @@
 ---
 title: "It's temples and palaces did seem
-like fabrics of enchantment pil'd to heaven."
+Like fabrics of enchantment pil'd to heaven."
 
 description: "How to save the Europe"
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.

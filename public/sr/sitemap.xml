@@ -75,16 +75,6 @@
     <loc>https://evropa27.org/sr/tags/scene/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://evropa27.org/en/tags/scene/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sr-latn"
-                href="https://evropa27.org/sr/tags/scene/"
-                />
   </url><url>
     <loc>https://evropa27.org/sr/tags/</loc>
     <changefreq>monthly</changefreq>
@@ -103,16 +93,6 @@
     <loc>https://evropa27.org/sr/post/chapter-1/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://evropa27.org/en/post/chapter-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sr-latn"
-                href="https://evropa27.org/sr/post/chapter-1/"
-                />
   </url><url>
     <loc>https://evropa27.org/sr/post/novi_clanak/</loc>
     <changefreq>monthly</changefreq>
