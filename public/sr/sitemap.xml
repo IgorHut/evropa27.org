@@ -32,6 +32,10 @@
                 href="https://evropa27.org/sr/"
                 />
   </url><url>
+    <loc>https://evropa27.org/sr/post/novi_clanak_2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://evropa27.org/sr/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -45,10 +49,6 @@
                 hreflang="sr-latn"
                 href="https://evropa27.org/sr/categories/"
                 />
-  </url><url>
-    <loc>https://evropa27.org/sr/post/novi_clanak_2/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>https://evropa27.org/sr/contact/</loc>
     <changefreq>monthly</changefreq>
@@ -65,6 +65,10 @@
                 />
   </url><url>
     <loc>https://evropa27.org/sr/o_nama/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://evropa27.org/sr/post/novi_clanak_3/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
