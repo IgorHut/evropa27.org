@@ -1,8 +1,8 @@
 ---
 title: Kontakt
-featured_image: ''
+featured_image: 'images/siteimages/novi_sad.png'
 omit_header_text: true
-description: Ostavite nam poruku!
+description: ""
 type: page
 menu:
   main:
