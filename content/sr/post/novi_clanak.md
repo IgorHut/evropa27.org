@@ -1,6 +1,6 @@
 ---
 title: "Vrlo bitan članak"
-
+tags: ["scene"]
 ---
 
 # Vrlo bitan članak

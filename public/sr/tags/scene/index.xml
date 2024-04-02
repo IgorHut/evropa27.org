@@ -14,5 +14,12 @@
       <guid>https://evropa27.org/sr/post/chapter-1/</guid>
       <description>Lorem ipsum.</description>
     </item>
+    <item>
+      <title>Vrlo bitan članak</title>
+      <link>https://evropa27.org/sr/post/novi_clanak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://evropa27.org/sr/post/novi_clanak/</guid>
+      <description>Vrlo bitan članak Bio jednom jedan mnogo pametan čovek. Nekom prilikom je otišao u šumu. Od tada ga niko više nije video.</description>
+    </item>
   </channel>
 </rss>
