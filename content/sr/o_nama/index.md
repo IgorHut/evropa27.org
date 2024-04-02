@@ -1,12 +1,12 @@
 ---
 title: "O nama"
 description: "Loža Evropa je slobodnozidarska radionica osnovana u Orjentu Beograd sa brojem 27. pod zaštitom Regularne Velike Lože Srbije, 3. oktobra 2009. godine."
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+featured_image: '/images/siteimages/Hendrick_van_Balen_-_Europa_riding_the_bull.jpg'
 menu:
   main:
     weight: 1
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/siteimages/Hendrick_van_Balen_-_Europa_riding_the_bull.jpg" title="Hendrick van Balen - Europa auf dem Stier" >}}
 
 ## Ko smo mi
 

@@ -1,12 +1,12 @@
 ---
 title: "About"
 description: "The Lodge Europe is a Freemasonic Lodge established in the Orient of Belgrade with the number 27, under the auspices of the Regular Grand Lodge of Serbia, on October 3, 2009."
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+featured_image: '/images/siteimages/Hendrick_van_Balen_-_Europa_riding_the_bull.jpg'
 menu:
   main:
     weight: 1
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/siteimages/Hendrick_van_Balen_-_Europa_riding_the_bull.jpg" title="Hendrick van Balen - Europa riding the bull" >}}
 
 ## About Us
 
