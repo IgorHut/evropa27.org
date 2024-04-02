@@ -32,7 +32,7 @@ canonifyURLs = true
     contentDir = "content/sr"
     [[languages.sr.menu.main]]
       name = "Naslovna"
-      url = "/"
+      url = "/sr/"
       weight = 1
     
 
