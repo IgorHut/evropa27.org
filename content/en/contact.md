@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: 'images/siteimages/novi_sad.png'
+featured_image: 'images/siteimages/backeu_radno.jpg'
 omit_header_text: true
 description: We'd love to hear from you
 type: page
