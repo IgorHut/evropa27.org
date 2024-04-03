@@ -7,7 +7,7 @@ menu:
     weight: 1
 ---
 
-Loža Evropa je slobodnozidarska radionica osnovana u Orjentu Beograd sa brojem 27. pod zaštitom Regularne Velike Lože Srbije, 3. oktobra 2009. godine. 
+Loža Evropa je slobodnozidarska radionica osnovana u Orijentu Beograd sa brojem 27. pod zaštitom Regularne Velike Lože Srbije, 3. oktobra 2009. godine. 
 Osnovna ideja osnivača bila je da stvore Ložu mladih ljudi koji će baštiniti vrednosti Evropske Unije kako bi se kao Slobodni Zidari i građani Srbije približili, pod pravim uglom, boljoj budućnosti u ujedinjenoj Evropi. 
 Loža Evropa radi po Ritualu Drevnih, Slobodnih i Prihvaćenih Masona (Ancient, Free and Accepted Masons – AF&AM).
 Loža Evropa članica je međunarodnog Lanca istoimenih Loža koje se okupljaju svakog maja meseca u okviru organizacije Međunarodnog Simpozijuma Evropskih Loža (International Symposium of European Lodges – ISEL) pod maksimom “Ujedinjeni u različitosti”.
